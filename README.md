@@ -1,0 +1,2 @@
+# SchoolApplication
+Small school project.
